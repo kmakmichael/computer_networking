@@ -3,7 +3,7 @@ Work for UOP's Computer Networking course.
 
 ### Project 1: Network Discoverer
 Online interfaces are discovered by sending an ARP packet to the broadcast MAC address.
-replies are then sorted into answers and unresponses, the answers are parsed and printed.
+Replies are then sorted into answers and unresponses, the answers are parsed and printed.
 
 ### Project 2: Traceroute
 Traceroute program using scapy.
